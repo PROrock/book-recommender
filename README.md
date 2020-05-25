@@ -14,4 +14,3 @@ For example on a local machine it is <http://localhost:8080/book/recommend?bookN
 
 ## Limitations
 No DB connection implemented, as the DB is mocked/faked.
-t
